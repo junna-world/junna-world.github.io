@@ -5,6 +5,8 @@
 | 폴더 | 원본 |
 |---|---|
 | `dodgebug/` | mono-repo `dodgebug/site/` |
+| `weroomi/` | mono-repo `weroomi/site/` |
+| `drakeling/` | mono-repo `drakeling/site/` |
 
 원본은 mono-repo에 있다. 여기는 그 복사본이다.
 
